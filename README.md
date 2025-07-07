@@ -16,3 +16,9 @@
    ```bash
    pip install streamlit pandas sentence-transformers scikit-learn newspaper3k networkx plotly streamlit-plotly-events
 
+
+## Полезные ссылки
+
+- [Телеграм канал ChatGPT, AI, Python для SEO](https://t.me/python_seo)
+
+
